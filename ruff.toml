@@ -1,0 +1,6 @@
+line-length = 79
+
+[format]
+quote-style = "double"
+indent-style = "tab"
+docstring-code-format = true
