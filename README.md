@@ -1,4 +1,4 @@
-## Project Overview
+## Parallel training ML Algos: Project Overview
 
 This project trains multiple machine learning algorithms simultaneously to reduce training time, especially for large datasets, utilizing multiprocessing. Additionally, Ruff is integrated for code quality.
 
