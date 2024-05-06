@@ -2,6 +2,10 @@
 
 **This project trains multiple machine learning algorithms simultaneously to reduce training time, especially for large datasets, utilizing multiprocessing. Additionally, Ruff is integrated for code quality.**
 
+### Working:
+- .ipynb file: is for one go and pre analysis and demo hints with good visualization.
+- cancer_ml_model_main.py : is the file to run for analysis and parallel training.
+
 ### Key Features
 
 - **Parallel Training:** Enables training multiple algorithms concurrently, leveraging multi-core processors.
